@@ -1132,3 +1132,15 @@ progress {
 .logo-name{
   text-align: center;
 }
+.account{
+  text-align: center;
+}
+.account-form input{
+  border-radius: 20px;
+  width: 60%;
+  text-align: center;
+  height: 50px;
+}
+.account-form input:hover {
+  color: blue;
+}

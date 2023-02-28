@@ -6,17 +6,17 @@ import ProductCard from "../../components/ProductCard";
 const dataProduct = [
   {
     id: 1,
-    brand: "Nike",
+    brand: "Mio Gear",
     categories: "Running Sneakers",
     image: "nike-1.jpg",
     name: "Nike ZoomX StreakFly Premium 1",
     price: "$149.49",
-    stock: "25",
+    stock: "1250",
     rate: "4.5",
   },
   {
     id: 2,
-    brand: "Nike",
+    brand: "Mio Sporty",
     categories: "Running Sneakers",
     image: "nike-3.jpg",
     name: "Nike ZoomX StreakFly Premium 2",
